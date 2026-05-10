@@ -36,10 +36,10 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10,
-    "max-reconnect-delay": 12
+    "auto-reconnect-delay": 5,
+    "max-reconnect-delay": 10
   },
   "movement": {
     "enabled": true,
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
