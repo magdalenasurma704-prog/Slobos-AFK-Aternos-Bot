@@ -8,8 +8,8 @@
   "server": {
     "ip": "x7MC.aternos.me:63792",
     "port": 63792,
-    "version": "26.1.2",
-    "try-creative": false
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
